@@ -1,0 +1,12 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Id": "com.fishyshu.cozyblocks",
+        "Name": "Cozy Blocks",
+        "Description": "Blocky night sky with a walking cat. Everything drifts (OLED-safe). Plays ~/Music/minecraft unless something is fullscreen or another app is playing audio.",
+        "Authors": [{ "Name": "Wasabi" }],
+        "License": "MIT",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

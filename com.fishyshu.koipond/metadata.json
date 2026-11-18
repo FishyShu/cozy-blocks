@@ -1,0 +1,12 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Id": "com.fishyshu.koipond",
+        "Name": "Koi Pond",
+        "Description": "Calm top-down pixel-art koi pond at night. Drifts slowly (OLED-safe). No clock, no audio.",
+        "Authors": [{ "Name": "Wasabi" }],
+        "License": "MIT",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

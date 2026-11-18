@@ -1,0 +1,3 @@
+# the soundtrack is Mojang's: tools/fetch-music.sh copies it from your own install
+*.ogg
+*.bak*
